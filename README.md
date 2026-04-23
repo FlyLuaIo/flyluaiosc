@@ -18,9 +18,9 @@ flyluaiosc.exe is a standalone application runs on Windows OS
 *   **Automatic Flight Device Key Assignment**: Say goodbye to the pain of manually setting hundreds of keys.
 *   **Smooth Aircraft Switching**: Say goodbye to the hassle of searching the entire internet for configuration files.   
 
-## Game/Hardware Compatibility List
+# Game/Hardware Compatibility List
 
-# Hardware
+## Hardware
 - Honeycomb Bravo
 - Saitek Multi Panel
 - Saitek Radio Panel
