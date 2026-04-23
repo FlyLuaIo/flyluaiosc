@@ -3,7 +3,7 @@ Use Lua to control flight simulation hardware I/O
 
 # Features
 
-*   **Real-Time Add Device**: Json + Lua is a new Device without compiling code
+*   **Real-Time Add Device**: Json + Lua is a new USB HID Device without compiling code
 *   **Zero Performance Impact**: Absolutely Zero impact on game frame rates (FPS).
 *   **Built-in Lua Language Engine**: Simple to use and easy to customize.
 *   **Easy Debugging**：Automatically reload Lua scripts After Editing the Lua file, speeding up the debugging process.
