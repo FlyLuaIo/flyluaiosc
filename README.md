@@ -1,5 +1,9 @@
 # flyluaiosc
-Use Lua to control flight simulation hardware I/O
+Use Lua to control flight simulation USB HID hardware I/O
+
+flyluaiosc stands for flyluaio Sim Connect for MSFS2020 and MSFS2024
+
+flyluaiosc.exe is a standalone application runs on Windows OS
 
 # Features
 
@@ -15,6 +19,16 @@ Use Lua to control flight simulation hardware I/O
 *   **Smooth Aircraft Switching**: Say goodbye to the hassle of searching the entire internet for configuration files.   
 
 ## Game/Hardware Compatibility List
+
+# Hardware
+- Honeycomb Bravo
+- Saitek Multi Panel
+- Saitek Radio Panel
+- Saitek Switch Panel
+- WinWing/WinCtrl AGP
+- VKBsim Gunfighter MCG Ultimate Twist
+- Quickmadesim QGMC710, QMCP737C, QG1K, QFCU, QCDU, QMPE, QMOVH-A
+- Adding ... (Json + Lua is a new USB HID device) 
 
 Please check the detailed compatibility list via the following link:
 [Device Game Compatibility List](https://docs.qq.com/sheet/DWERFQnRmVUFZeHBi?tab=000001)
