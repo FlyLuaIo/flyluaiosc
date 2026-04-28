@@ -23,6 +23,7 @@ flyluaiosc.exe is a standalone application runs on Windows OS
 - Saitek Radio Panel
 - Saitek Switch Panel
 - WinWing/WinCtrl AGP
+- WingFlex Cube
 - VKBsim Gunfighter MCG Ultimate Twist
 - Quickmadesim QGMC710, QMCP737C, QG1K, QFCU, QCDU, QMPE, QMOVH-A
 - Adding ... (Json + Lua is a new USB HID device) 
