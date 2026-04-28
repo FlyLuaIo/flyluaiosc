@@ -35,4 +35,4 @@ Please check the detailed compatibility list via the following link:
 
 if you don't want FlyLuaIoSc to control your hardware, here is the list you can uncheck them
 
-![blacklist](img/blacklist.jpg)
+![blacklist](img/blacklist.png)
