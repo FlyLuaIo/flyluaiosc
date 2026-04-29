@@ -5,6 +5,9 @@ flyluaiosc stands for flyluaio Sim Connect for MSFS2020 and MSFS2024
 
 flyluaiosc.exe is a standalone application runs on Windows OS
 
+# Download
+https://gitee.com/FlyLuaIo/flyluaiosc/releases
+
 # Features
 
 *   **Real-Time Add Device**: Json + Lua is a new USB HID Device without compiling code
