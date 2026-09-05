@@ -12,12 +12,12 @@ https://gitee.com/FlyLuaIo/flyluaiosc/releases
 
 *   **Custom USB HID / MobiFlight**: Advanced users can customize USB HID and MobiFlight devices
 *   **Real-Time Add Device**: Json + Lua is a new USB HID / MobiFlight Device without compiling code
-*   **Zero Performance Impact**: Absolutely Zero impact on game frame rates (FPS).
 *   **Built-in Lua Language Engine**: Simple to use and easy to customize.
 *   **Easy Debugging**: Automatically reload Lua scripts After Editing the Lua file, speeding up the debugging process.
 *   **JSON defined USB HID / MobiFlight**: Add Json, add a USB HID or MobiFlight Device
 *   **Automatic Flight Device Key Assignment**: Say goodbye to the pain of manually setting hundreds of keys.
 *   **Smooth Aircraft Switching**: Say goodbye to the hassle of searching the entire internet for configuration files.   
+*   **Home Assistant**: Smart Home HA event bridge.
 
 # Game/Hardware Compatibility List
 
@@ -26,7 +26,7 @@ https://gitee.com/FlyLuaIo/flyluaiosc/releases
 - Saitek Multi Panel
 - Saitek Radio Panel
 - Saitek Switch Panel
-- WinWing/WinCtrl AGP
+- WinWing/WinCtrl AGP/PAP3/PDC
 - WingFlex Cube
 - VKBsim Gunfighter MCG Ultimate Twist
 - Quickmadesim QGMC710, QMCP737C, QG1K, QFCU, QCDU, QMPE, QMOVH-A
