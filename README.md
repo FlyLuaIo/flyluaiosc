@@ -124,7 +124,7 @@ Other tabs: **Scripting** opens the script folder and has *Reload Scripts*, *Upd
 
 * Discord — [discord.gg/XEamJAejWS](https://discord.gg/XEamJAejWS)
 * QQ 群 — 378072629
-* Email — [cpuwolf@gmail.com](mailto:cpuwolf@gmail.com)
+* Email — QuickMade@qq.com (orders, licensing, confidential matters)
 * Video — [youtube.com/@cpuwolf](https://www.youtube.com/@cpuwolf) · [Bilibili](https://space.bilibili.com/323386663/)
 
 Before writing, send the log — *Scripting* tab (or tray menu) → **Upload Log**. It takes 30 seconds and

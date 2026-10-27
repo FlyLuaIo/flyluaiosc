@@ -35,7 +35,7 @@ scripts.
 |---|---|
 | [Discord](https://discord.gg/XEamJAejWS) | Fastest. Screenshots and logs welcome, other users help too. |
 | QQ 群 378072629 | Chinese-language channel. |
-| [cpuwolf@gmail.com](mailto:cpuwolf@gmail.com) | Orders, licensing, anything confidential. |
+| QuickMade@qq.com | Orders, licensing, anything confidential. Technical questions get answered faster on Discord. |
 | [youtube.com/@cpuwolf](https://www.youtube.com/@cpuwolf) · [Bilibili](https://space.bilibili.com/323386663/) | Installation and feature videos. |
 
 A report that gets fixed fast contains: which panel, which aircraft and sim version, what you pressed, what
